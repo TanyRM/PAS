@@ -1,0 +1,201 @@
+id,produto,valor
+1,Mouse,4125.56
+2,HD Externo,1229.69
+3,Monitor,535.26
+4,Cadeira Gamer,2659.05
+5,Webcam,1916.39
+6,Mouse,3406.69
+7,Mouse,4380.48
+8,,2632.96
+9,Headset,501.87
+10,,2325.86
+11,,2277.32
+12,Monitor,1588.19
+13,Tablet,353.97
+14,HD Externo,1365.71
+15,Tablet,1985.8
+16,Headset,1002.25
+17,Headset,-702.89
+18,,2001.88
+19,Notebook,3285.7
+20,Mouse,3407.54
+21,,4895.96
+22,Notebook,3638.99
+23,,4131.96
+24,Headset,1039.28
+25,Pendrive,3675.15
+26,HD Externo,4494.66
+27,Smartphone,3392.27
+28,Impressora,1724.48
+29,,-303.92
+30,Monitor,450.04
+31,Mouse,1194.08
+32,HD Externo,-535.43
+33,Notebook,2551.73
+34,Smartphone,-648.26
+35,Headset,-915.92
+36,HD Externo,4355.29
+37,HD Externo,927.39
+38,Pendrive,2773.25
+39,Microfone,-63.64
+40,Pendrive,562.73
+41,Impressora,1187.01
+42,Pendrive,1744.75
+43,Impressora,2280.97
+44,Cadeira Gamer,2039.34
+45,Webcam,4441.65
+46,Tablet,-925.62
+47,Pendrive,1782.65
+48,Microfone,1240.34
+49,Monitor,-987.32
+50,Headset,4308.92
+51,Smartphone,802.98
+52,Mouse,4357.92
+53,Webcam,4497.35
+54,Smartphone,-911.82
+55,,2517.69
+56,Microfone,3383.48
+57,Headset,4762.24
+58,HD Externo,2643.76
+59,Smartphone,760.64
+60,Impressora,-95.83
+61,Smartphone,3405.45
+62,Microfone,1520.88
+63,Smartphone,606.29
+64,Microfone,-71.02
+65,Impressora,3185.4
+66,Notebook,1320.61
+67,HD Externo,-672.61
+68,,-88.36
+69,Impressora,4185.76
+70,Monitor,1294.37
+71,HD Externo,1817.44
+72,Tablet,2255.32
+73,Smartphone,-231.38
+74,Impressora,800.15
+75,Headset,2647.45
+76,Microfone,-152.36
+77,Mouse,-570.46
+78,Mouse,459.5
+79,,2870.5
+80,Monitor,4584.32
+81,,3704.02
+82,Notebook,16.96
+83,HD Externo,658.38
+84,Teclado,3285.87
+85,Smartphone,4948.29
+86,,3954.43
+87,Microfone,4249.46
+88,Smartphone,3997.47
+89,Notebook,-729.21
+90,Monitor,2980.11
+91,Notebook,508.58
+92,Teclado,1004.92
+93,,-687.86
+94,,3284.79
+95,Cadeira Gamer,1973.77
+96,Tablet,2145.64
+97,,195.07
+98,Notebook,2233.77
+99,Monitor,4120.62
+100,Smartphone,4499.61
+101,Microfone,324.46
+102,Monitor,671.34
+103,Monitor,4465.98
+104,Pendrive,-712.77
+105,Monitor,-679.94
+106,Tablet,-63.37
+107,HD Externo,4306.98
+108,Smartphone,142.95
+109,Monitor,3303.82
+110,Webcam,735.56
+111,Cadeira Gamer,1869.8
+112,Smartphone,1410.06
+113,Microfone,2591.52
+114,Mouse,4784.51
+115,Impressora,653.92
+116,Impressora,4109.9
+117,,3870.99
+118,Smartphone,943.55
+119,Cadeira Gamer,-386.46
+120,Notebook,2597.35
+121,Notebook,3939.67
+122,Mouse,2528.65
+123,Tablet,1478.18
+124,,-755.86
+125,Cadeira Gamer,448.48
+126,Cadeira Gamer,259.67
+127,Webcam,3160.23
+128,Cadeira Gamer,1995.57
+129,Pendrive,42.25
+130,Impressora,455.48
+131,HD Externo,-573.94
+132,Monitor,3960.37
+133,Impressora,3491.22
+134,Mouse,481.29
+135,Teclado,-119.89
+136,,-401.97
+137,Monitor,2030.02
+138,Mouse,1009.2
+139,Microfone,3329.18
+140,Teclado,308.77
+141,Tablet,4553.72
+142,Monitor,-868.47
+143,Pendrive,4051.51
+144,Pendrive,-272.04
+145,Notebook,3081.24
+146,Smartphone,64.13
+147,Cadeira Gamer,2646.46
+148,Impressora,4281.08
+149,Teclado,2585.87
+150,Monitor,-551.82
+151,Monitor,3842.07
+152,Webcam,3546.49
+153,Tablet,2922.93
+154,Smartphone,3859.61
+155,,2943.19
+156,Notebook,1927.89
+157,Tablet,164.09
+158,Microfone,1903.63
+159,Headset,4587.99
+160,Teclado,3806.72
+161,Microfone,2662.72
+162,Mouse,43.83
+163,Notebook,2201.69
+164,Notebook,2246.13
+165,Notebook,0.2
+166,Microfone,2041.71
+167,Tablet,986.07
+168,Impressora,2147.57
+169,Teclado,3624.42
+170,,4299.7
+171,,1590.07
+172,Mouse,235.41
+173,Impressora,2898.64
+174,Impressora,2206.6
+175,Impressora,3834.65
+176,Monitor,831.11
+177,Monitor,4802.28
+178,Pendrive,1813.91
+179,Smartphone,1764.97
+180,,760.24
+181,Cadeira Gamer,849.92
+182,Smartphone,634.77
+183,Mouse,-19.16
+184,Microfone,3601.2
+185,Mouse,2580.17
+186,Cadeira Gamer,147.92
+187,Tablet,2254.24
+188,Impressora,1880.58
+189,Headset,-363.48
+190,Impressora,748.61
+191,,4221.36
+192,Notebook,2282.7
+193,Microfone,-437.3
+194,Headset,122.58
+195,Mouse,786.59
+196,Cadeira Gamer,514.89
+197,Monitor,612.62
+198,Microfone,577.25
+199,Notebook,3904.12
+200,Monitor,137.18
